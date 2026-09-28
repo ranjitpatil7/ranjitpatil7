@@ -1,50 +1,38 @@
-# Hi, I'm Ranjit Patil 👋
-**Software Engineer | Full-Stack & Distributed Systems Developer**  
-📍 Pune, India | 🎓 Computer Science & Engineering (Class of 2027)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-patil-3236b72a4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://full-stack-portfolio-dusky-seven.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranjitpatilsknscoecomp@gmail.com)
+  # Hi, I'm Ranjit Patil 👋
+  
+  <a href="https://github.com/ranjitpatil7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+%26+Backend+Developer;Java+17+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Engineering+Resilient+APIs+%26+Microservices;CSE+Undergraduate+(Class+of+2027)" alt="Typing SVG" />
+  </a>
 
----
+  <br/><br/>
+
+  <!-- Interactive Badges -->
+  <a href="https://www.linkedin.com/in/ranjit-patil-3236b72a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://full-stack-portfolio-dusky-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:ranjitpatilsknscoecomp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,38,100&height=120&section=header" width="100%" />
+
+</div>
 
 ### 🚀 About Me
-- 🔭 **Focus Areas:** High-concurrency backend services, event-driven microservices, and full-stack web applications.
-- ⚙️ **Core Stack:** Java 17, Spring Boot, React, Node.js, FastAPI, PostgreSQL, and distributed streaming engines.
-- 💡 **Engineering Approach:** Designing resilient systems using Redis caching, optimistic locking, and message streaming with Apache Kafka / Redpanda.
-- 🎯 **Looking For:** Software Engineering Internships and Full-Time Roles.
 
----
-
-### 🛠️ Technical Skills
-
-**Backend & Architecture**  
-`Java 17` • `Spring Boot` • `Spring Security` • `Hibernate / JPA` • `Node.js` • `FastAPI` • `Microservices` • `RESTful APIs`
-
-**Frontend**  
-`React.js` • `TypeScript` • `JavaScript` • `HTML5 / CSS3` • `Tailwind CSS`
-
-**Data & Messaging**  
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Apache Kafka` • `Redpanda`
-
-**DevOps & Tools**  
-`Docker` • `Git` • `GitHub` • `Linux` • `Postman`
-
----
-
-### 📌 Featured Projects
-
-- 🎟️ **[TicketReserve](https://github.com/ranjitpatil7/Ticket-Reserve)** — High-concurrency event ticketing engine with Redis atomic seat reservation locks and JPA optimistic concurrency control.
-- 🩺 **[Pulse-Triage](https://github.com/ranjitpatil7/Pulse-Triage)** — Healthcare IoT telemetry processing service with automated emergency triage routing built on Spring Boot.
-- 🚚 **[IoT Fleet Management](https://github.com/ranjitpatil7/IOT-Fleet-Management-Microservices)** — Event-driven microservices architecture processing real-time vehicle metrics using Redpanda streaming, Redis, and MapLibre GL.
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjitpatil7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ranjit's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitpatil7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+```yaml
+Engineer:
+  Name: Ranjit Patil
+  Education: B.tech in Computer Science & Engineering (2023 - 2027)
+  Core_stack: [Java 17, Spring Boot, React, Node.js, PostgreSQL, Redis]
+  Architecture: [Microservices, Event-Driven Systems, RESTful APIs]
+  Seeking: Software Engineering Internships & Full-Time Roles
