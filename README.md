@@ -120,19 +120,11 @@ Status: Available for Full-Time Software Roles & Strategic Collaborations
 
 ---
 
-### 📈 Live Telemetry & GitHub Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjitpatil7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06060b&title_color=10b981&icon_color=06b6d4&text_color=94a3b8" height="155" alt="Ranjit's Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitpatil7&theme=tokyonight&background=06060B&border=10B98133&stroke=10B981&ring=06B6D4&fire=10B981&currStreakLabel=10B981" height="155" alt="Ranjit's Streak" />
-</div>
-
-<br/>
-
 <div align="center">
 
   [![Live Portfolio](https://img.shields.io/badge/Explore_Interactive_Portfolio-ranjit--patil.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://ranjit-patil.vercel.app/)
+
+  <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=99,102,241,6,182,212,16,185,129&height=80&section=footer" width="100%" />
 
