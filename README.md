@@ -114,7 +114,7 @@ Status: Available for Full-Time Software Roles & Strategic Collaborations
 
 - 📜 **Registered Patent & Published Research Paper (2026):** *"Smart Community Health Monitoring and Early Warning Platform"* (EpiGuard AI &bull; **SIH25001**)
 - 🌐 **Neo4j Certified Professional:** Graph Database Modeling & Cypher Query Engine (*GraphAcademy, Oct 2026*)
-- 🤖 **Oracle Agentic AI Foundations Associate:** Certified by Oracle University (*Aug 2026*)
+- 🤖 **Agentic AI Certified Foundations Associate:** Certified by Oracle University (*October 2026*)
 - ☁️ **NPTEL Cloud Computing (Elite Certificate):** Certified by IIT Kharagpur (*2026*)
 - 🏢 **TATA Group Virtual Job Simulations (Forage):** GenAI Powered Data Analytics & Cybersecurity IAM Strategy (*Oct 2026*)
 
